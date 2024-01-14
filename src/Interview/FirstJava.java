@@ -2,6 +2,10 @@ package Interview;
 
 public class FirstJava {
 	
+	public static void m2() {
+		System.out.println("done from person 2");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("Prabhu Shree Ram");
 		
